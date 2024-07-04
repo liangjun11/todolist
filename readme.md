@@ -23,8 +23,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```
-   git clone [your-repo-url]
-   cd [your-repo-name]
+   git clone https://github.com/liangjun11/todolist.git
+   cd todolist
    ```
 
 2. Install dependencies:
