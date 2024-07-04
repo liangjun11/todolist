@@ -1,0 +1,6 @@
+bg-success/80
+text-success-content
+bg-warning/80
+text-warning-content
+bg-neutral/80
+text-neutral-content
